@@ -1,30 +1,31 @@
-# 👋 Hello, I'm Artur!
+# 👋 Hey, I'm Artur
 
-I'm a software developer passionate about programming and always seeking new challenges. Currently, I’m focused on becoming a full-stack developer and improving my skills in JavaScript.
+I'm a developer forged in discipline, not just code.
+
+Currently focused on full-stack development with solid foundations in JavaScript and React. Every line of code is part of something bigger. It's not just about learning, it's about becoming a reference through consistency, long-term vision and real execution.
 
 ## 🚀 Skills
 
-- **Programming Languages:** JavaScript, Python, Java
-- **Frameworks:** React, Node.js, Express
-- **Databases:** MongoDB, PostgreSQL
-- **Tools and Technologies:** Git, GitHub, Docker, REST APIs
+- **Languages:** JavaScript, Python, Java  
+- **Frameworks & Libraries:** React, Node.js, Express  
+- **Databases:** MongoDB, PostgreSQL  
+- **Tools:** Git, GitHub, Docker, REST APIs  
 
-## 🌱 Currently Learning
+## 🔥 About Me
 
-- **Advanced JavaScript**
-- **Full-Stack Application Development**
-- **Agile Methodologies**
+I'm not here for surface-level progress. I'm building a new chapter through real effort, consistent projects and continuous study. No shortcuts. Just structure, clarity and a relentless drive to grow.
+
+## 🌱 Currently Exploring
+
+- Advanced JavaScript patterns  
+- Full-stack application flow  
+- Clean code, testing and deployment
 
 ## 💼 Projects
 
-### [I'll update you guys]
-I’m currently working on exciting projects that I will showcase here soon!
+New projects coming soon. Not just portfolio pieces, but proof of execution and growth.
 
-## 📫 How to Reach Me
+## 📫 Reach Me
 
-- **LinkedIn:** [Artur Wagner](https://www.linkedin.com/in/artur-wagner-016a62165/)
+- **LinkedIn:** [Artur Wagner](https://www.linkedin.com/in/artur-wagner-016a62165/)  
 - **Email:** arturwagner99@hotmail.com
-
----
-
-I’m open to collaboration on web development projects or any opportunities that align with my skills! 
