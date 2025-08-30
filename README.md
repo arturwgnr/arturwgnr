@@ -29,3 +29,4 @@ New projects coming soon. Not just portfolio pieces, but proof of execution and 
 
 - **LinkedIn:** [Artur Wagner](https://www.linkedin.com/in/artur-wagner-016a62165/)  
 - **Email:** arturwagner99@hotmail.com
+- **Number:** +353 083 2009894
