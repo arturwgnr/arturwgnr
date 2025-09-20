@@ -2,7 +2,7 @@
 
 I'm a self-driven developer with a clear mission: grow into a full-stack engineer ready to deliver real impact.  
 
-Currently focused on solid foundations with JavaScript, TypeScript and React, while expanding into Node.js and databases. For me, coding isn’t just about syntax — it’s about discipline, structure and turning ideas into products that work.
+Currently focused on solid foundations with JavaScript, TypeScript and React, while expanding into Node.js and databases. For me, coding it’s about discipline, structure and turning ideas into products that work.
 
 ## 🚀 Skills
 
@@ -13,7 +13,7 @@ Currently focused on solid foundations with JavaScript, TypeScript and React, wh
 
 ## 🔥 What Drives Me
 
-I’m not chasing shortcuts. I’m building consistency through daily study and real-world projects, refining both technical and problem-solving skills. My goal is simple: to become employable, adaptable and ready for the challenges of modern software development.  
+I’m not chasing shortcuts. I’m building consistency through daily study and real-world projects, refining both technical and problem-solving skills. My goal is to become adaptable and ready for the challenges of modern software development.  
 
 ## 🌱 Currently Exploring
 
