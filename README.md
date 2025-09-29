@@ -31,4 +31,3 @@ Projects in progress — built to be more than portfolio items, but proof of con
 - **Email:** arturwagner99@hotmail.com  
 - **Phone (IE):** +353 083 2009894
 
-## I won't stop
