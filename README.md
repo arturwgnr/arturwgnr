@@ -30,4 +30,5 @@ Projects in progress — built to be more than portfolio items, but proof of con
 - **LinkedIn:** [Artur Wagner](https://www.linkedin.com/in/artur-wagner-016a62165/)  
 - **Email:** arturwagner99@hotmail.com  
 - **Phone (IE):** +353 083 2009894
+- Cork - Ireland
 
