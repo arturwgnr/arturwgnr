@@ -1,34 +1,47 @@
-# 👋 Hey, I'm Artur
+# 👋 Hey, I'm Artur Wagner
 
-I'm a self-driven developer with a clear mission: grow into a full-stack engineer ready to deliver real impact.  
+I'm a self-taught developer focused on building clean, functional and user-centered applications.  
+Currently shaping my path toward full-stack engineering, combining strong front-end craft with growing back-end expertise.
 
-Currently focused on solid foundations with JavaScript, TypeScript and React, while expanding into Node.js and databases. For me, coding it’s about discipline, structure and turning ideas into products that work.
+---
 
-## 🚀 Skills
+## ⚙️ Tech Stack
 
 - **Languages:** JavaScript, TypeScript, Python  
-- **Frameworks & Libraries:** React, Node.js, Express  
-- **Databases:** MongoDB, PostgreSQL  
-- **Tools:** Git, GitHub, Docker, REST APIs  
+- **Frontend:** React, Vite, CSS Modules  
+- **Backend:** Node.js, Express, Prisma  
+- **Databases:** PostgreSQL, MongoDB  
+- **Tools & Concepts:** Git, REST APIs, Docker, JWT Auth, Deployment (Vercel / Railway)
 
-## 🔥 What Drives Me
+---
 
-I’m not chasing shortcuts. I’m building consistency through daily study and real-world projects, refining both technical and problem-solving skills. My goal is to become adaptable and ready for the challenges of modern software development.  
+## 🧠 Focus & Philosophy
 
-## 🌱 Currently Exploring
+I treat software development like a craft — structure, discipline and clarity matter as much as code itself.  
+My goal is to build real-world solutions that blend solid engineering with thoughtful design.  
+Every project is a step toward becoming a versatile, product-oriented developer.
 
-- Advanced React patterns (Context, Reducer, hooks optimization)  
-- Full-stack integration with Node.js + databases  
-- Testing, clean code and deployment best practices  
+---
 
-## 💼 Projects
+## 🚀 Currently Working On
 
-Projects in progress — built to be more than portfolio items, but proof of consistency and growth.  
+- **Flowee Finance:** A personal finance tracker designed for accessibility and real usability, with React, Node.js and PostgreSQL.  
+- **SOS Transpaletes:** A technical-report management platform with role-based auth, PDF generation and cloud storage integration.  
+- Expanding full-stack integration, clean code practices, and deployment workflows.
 
-## 📫 Reach Me
+---
+
+## 🔍 What I’m Exploring
+
+- TypeScript patterns and API architecture with Node.js + Prisma  
+- State management and performance optimization in React  
+- Automation and AI-assisted features for real-world apps  
+
+---
+
+## 📫 Connect
 
 - **LinkedIn:** [Artur Wagner](https://www.linkedin.com/in/artur-wagner-016a62165/)  
 - **Email:** arturwagner99@hotmail.com  
-- **Phone (IE):** +353 083 2009894
-- Cork - Ireland
-
+- **Phone (IE):** +353 083 2009894  
+- **Location:** Cork, Ireland  
