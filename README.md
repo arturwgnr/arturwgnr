@@ -17,7 +17,7 @@ Currently shaping my path toward full-stack engineering, combining strong front-
 
 ## 🧠 Focus & Philosophy
 
-I treat software development like a craft — structure, discipline and clarity matter as much as code itself.  
+I treat software development like a craft, structure, discipline and clarity matter as much as code itself.  
 My goal is to build real-world solutions that blend solid engineering with thoughtful design.  
 Every project is a step toward becoming a versatile, product-oriented developer.
 
