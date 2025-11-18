@@ -35,7 +35,7 @@ Every project is a step toward becoming a versatile, product-oriented developer.
 
 - TypeScript patterns and API architecture with Node.js + Prisma  
 - State management and performance optimization in React  
-- Automation and AI-assisted features for real-world apps  
+- Automation and AI-assisted features for real-world apps.
 
 ---
 
