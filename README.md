@@ -44,4 +44,5 @@ Every project is a step toward becoming a versatile, product-oriented developer.
 - **LinkedIn:** [Artur Wagner](https://www.linkedin.com/in/artur-wagner-016a62165/)  
 - **Email:** arturwagner99@hotmail.com  
 - **Phone (IE):** +353 083 2009894  
-- **Location:** Cork, Ireland  
+- **Location:** Cork, Ireland
+- **CRM**
