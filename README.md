@@ -46,3 +46,5 @@ Every project is a step toward becoming a versatile, product-oriented developer.
 - **Phone (IE):** +353 083 2009894  
 - **Location:** Cork, Ireland
 - **CRM**
+
+- ## Coming soon
