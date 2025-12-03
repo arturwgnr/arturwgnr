@@ -47,5 +47,5 @@ Every project is a step toward becoming a versatile, product-oriented developer.
 - **Location:** Cork, Ireland
 - **CRM**
 
-- ## Coming soon...
+- ## Coming soon!
 
