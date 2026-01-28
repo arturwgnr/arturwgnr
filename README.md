@@ -48,5 +48,5 @@ Every project is a step toward becoming a versatile, product-oriented developer.
 - **CRM**
 
 - ## Coming soon!
-- 
+
 
